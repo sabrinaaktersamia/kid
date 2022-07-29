@@ -1,0 +1,53 @@
+.manu{
+    background-color: rgb(112, 111, 111);
+    color: rgb(242, 244, 247);
+    text-align: center; 
+   padding: 10px;
+}
+.a{
+    line-gap-override: 20px;
+    color: aliceblue;
+}
+.logo{
+    background-image: url('image.PNG');
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+
+}
+.b
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+    text-decoration: solid;
+   font-weight: bold;
+   font-size: 30px;
+
+}
+.d{
+    color: rgb(41, 148, 219);
+}
+.e{
+    color: rgb(128, 21, 128);
+}
+.f{
+    color: rgb(230, 145, 34);
+}
+.c{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.d{
+color: black;
+text-align: center;
+font-weight: normal;
+}
+.f{
+    color: black;
+    text-align: center;
+    font-weight: normal;
+    }
